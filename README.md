@@ -9,6 +9,8 @@ $ cd dogeclickbot<br>
 $ pip3 install -r requirements.txt<br>
 $ python3 main.py phone_number<br>
 
+# Password is HeyTayo
+
 # Note :
 - Bisa Menggunakan Nomor Luar/ID, Syarat Input Nomor : python main.py 62813****** / python main.py 1315*******
 - Input OTP
@@ -19,3 +21,4 @@ $ python3 main.py phone_number<br>
 
 # Special Thx :
 Jejaka Tutorial
+
